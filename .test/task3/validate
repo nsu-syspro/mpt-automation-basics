@@ -29,7 +29,7 @@ function build_docker() {
 }
 
 function run_docker() {
-  docker run --rm -i wordcount "$@"
+  docker run --rm -i wordcount
 }
 
 function run_docker_bash() {
