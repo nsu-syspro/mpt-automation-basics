@@ -1,7 +1,5 @@
 # Знакомство со средствами автоматизации сборки
 
-<img alt="points bar" align="right" height="36" src="../../blob/badges/.github/badges/points-bar.svg" />
-
 [![Automation](https://imgs.xkcd.com/comics/automation.png)](https://xkcd.com/1319/)
 
 ## Локальная проверка
